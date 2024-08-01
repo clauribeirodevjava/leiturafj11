@@ -1,4 +1,4 @@
-package br.com.claudemir;
+package br.com.claudemir.exercicios;
 
 public class Soma {
 	public static void main(String[] args) {

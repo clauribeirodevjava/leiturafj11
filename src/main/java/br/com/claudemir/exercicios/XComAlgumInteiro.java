@@ -1,4 +1,4 @@
-package br.com.claudemir;
+package br.com.claudemir.exercicios;
 
 public class XComAlgumInteiro {
 	public static void main(String[] args) {
