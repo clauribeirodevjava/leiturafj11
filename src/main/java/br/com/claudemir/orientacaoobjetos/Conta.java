@@ -1,4 +1,4 @@
-package br.com.claudemir.exercicios.orientacaoaobjetosbasica;
+package br.com.claudemir.orientacaoobjetos;
 
  class Conta {
 	 String numero;
